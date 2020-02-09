@@ -39,3 +39,5 @@ A következőket kell látnunk a felületen:
 
 ## Felület drótváz
 <img src="./wireframe.png" width="500" />
+
+Az ikonokat [Game-icons.net](https://game-icons.net/)-nek köszönhetjük!

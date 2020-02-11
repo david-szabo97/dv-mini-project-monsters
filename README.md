@@ -42,6 +42,6 @@ A következőket kell látnunk a felületen:
 
 ## Megoldások
 > Megcsináltad már ezt a feladatot és szeretnéd kitenni ide? Nyiss egy issue-t!
-Még sajnos egy sincs. 
+* React + Redux redmaster90 által: https://github.com/redmaster90/monsters
 
 Az ikonokat [Game-icons.net](https://game-icons.net/)-nek köszönhetjük!
